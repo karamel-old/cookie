@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "edf4d5fa51b189cf4c98f62b30b4c555",
+    "packages": [
+        {
+            "name": "karamel/encrypt",
+            "version": "v0.1.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/karamel-pack/Encrypt.git",
+                "reference": "0bdd7cca80541abb6c0e46fc773b8ce7a244e368"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/karamel-pack/Encrypt/zipball/0bdd7cca80541abb6c0e46fc773b8ce7a244e368",
+                "reference": "0bdd7cca80541abb6c0e46fc773b8ce7a244e368",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Karamel\\Encrypt\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Amir Kalantar",
+                    "email": "amir.kalantar@gmail.com"
+                }
+            ],
+            "description": "encrypt package",
+            "time": "2018-10-03T14:42:28+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
